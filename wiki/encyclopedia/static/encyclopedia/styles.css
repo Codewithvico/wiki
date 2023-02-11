@@ -13,8 +13,10 @@ h1 {
 }
 
 textarea {
-    height: 90vh;
+    height: 65vh;
     width: 80%;
+    margin: 10px 0 10px 0;
+    display: block;
 }
 
 .main {
@@ -29,6 +31,12 @@ textarea {
 
 .sidebar {
     background-color: #f0f0f0;
+    height: 100vh;
+    padding: 20px;
+}
+
+.sidebar {
+    background: #f0f0f0;
     height: 100vh;
     padding: 20px;
 }
